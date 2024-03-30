@@ -32,3 +32,7 @@ java mujava.gui.GenMutantsMain
 ```commandline
 java mujava.gui.RunTestMain
 ```
+#### Special reminder
+Here are some precautions for using MuJava
+1. Using custom classes, even built-in classes, can cause exceptions that cannot parse trees to be thrown when generating variants.
+2. The source program being tested cannot be an implementation class of a certain interface, and the test program cannot be a parameterized test, such as using @RunWith(Parameterized.class), otherwise an exception will be thrown that cannot instantiate the object.
