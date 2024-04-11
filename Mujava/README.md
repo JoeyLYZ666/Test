@@ -20,8 +20,7 @@ This project focuses on using different testing tools and source programs to hel
 ...
 ```
 
-## Test tools
-### Mujava
+## Mujava
 *Environment:Windows*
 1. Install MuJava. Follow the instructions provided at [here](https://cs.gmu.edu/~offutt/mujava/) to install and configure MuJava on your development environment.
 2. Generate mutants on cmd (windows).

@@ -9,7 +9,7 @@ This project focuses on using different testing tools and source programs to hel
 ## Structure of the Directory
 ```
 | --- README                             : the introduction
-| --- Lab_4                              : the project
+| --- Major_project                      : the project
 | ------ src/main/java                   : the solutions to classify or get the area of the triangle
 | ------ test/main/java                  : the JUnit test
 | ------ target/                         : the classes           
@@ -22,7 +22,7 @@ This project focuses on using different testing tools and source programs to hel
 ```
 
 
-### Major
+## Major
 *Environment:Linux*
 1. Install Major. Follow the instructions provided at [here](https://mutation-testing.org/tutorial.html) to install and configure Major on your development environment.
 

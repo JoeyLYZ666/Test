@@ -11,6 +11,7 @@ This project focuses on using different testing tools and source programs to hel
 | --- README                             : the introduction
 | --- mujava                             : the project of mujava
 | --- major                              : the project of major
+| --- selenium                           : the project of selenium
 ...
 ...
 ```
